@@ -1,0 +1,1 @@
+web: gunicorn eric_b_photography.wsgi
